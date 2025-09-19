@@ -24,7 +24,7 @@ Se puede disfrutar de este para jugar en esta fecha especial de amor y amistad c
  Cómo usarlo
 
 ###Clona y descarga repositorio
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone (https://github.com/ElJorsh/AmigoSecreto.git)
 
 
 O simplemente descarga el .zip y descomprímelo.
